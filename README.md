@@ -51,15 +51,19 @@ If you want to process your own data, follow these steps:
 
 ### Download the pretrained model folder extract and replace from here : https://drive.google.com/file/d/1t_5ff2R8eL6a52EN-Gn5F19v_-SSLTNj/view?usp=sharing
 
-###sample screenshots
-![Screenshot 2024-02-09 134200](https://github.com/chethanachars/Virtual-3D-Dress-TryOn/assets/158150756/f2830162-e8c9-4700-9b9a-9de96db2a914)
-![Screenshot 2024-02-09 133957](https://github.com/chethanachars/Virtual-3D-Dress-TryOn/assets/158150756/f3d4260e-ac71-4e72-8bc5-1f777b40d5d8)
-![Screenshot 2024-02-09 134045](https://github.com/chethanachars/Virtual-3D-Dress-TryOn/assets/158150756/f1b160f4-db9a-44cc-b915-5403abfeef3e)
-![Screenshot 2024-02-09 134119](https://github.com/chethanachars/Virtual-3D-Dress-TryOn/assets/158150756/69c680ff-cfca-4fbb-97da-f0a08d1317f0)
 
 
 ### Demo:
 https://drive.google.com/file/d/1xpQGyfmniCOPGy56SBpDeWyWGCPdhipN/view?usp=sharing
+
+
+![Screenshot 2024-02-09 134200](https://github.com/chethanachars/Virtual-3D-Dress-TryOn/assets/158150756/f2830162-e8c9-4700-9b9a-9de96db2a914)
+
+![Screenshot 2024-02-09 133957](https://github.com/chethanachars/Virtual-3D-Dress-TryOn/assets/158150756/f3d4260e-ac71-4e72-8bc5-1f777b40d5d8)
+
+![Screenshot 2024-02-09 134045](https://github.com/chethanachars/Virtual-3D-Dress-TryOn/assets/158150756/f1b160f4-db9a-44cc-b915-5403abfeef3e)
+
+![Screenshot 2024-02-09 134119](https://github.com/chethanachars/Virtual-3D-Dress-TryOn/assets/158150756/69c680ff-cfca-4fbb-97da-f0a08d1317f0)
 
 
 ## Running Inference
