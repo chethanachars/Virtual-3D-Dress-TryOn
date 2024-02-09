@@ -45,7 +45,14 @@ If you want to process your own data, follow these steps:
 
 6. Data preparation is now finished, and you can proceed to run inference.
 
+### Download the dataset from : https://drive.google.com/file/d/1qcynpXZ9eSlzTV-RDCr-Yip3GcuU314h/view
+
+### Download the pretrained model from here :  https://drive.google.com/file/d/1Yk3pXKw00u6CUIu-Fe_8W0mV-aTBV-r9/view?usp=sharing and place in assets folder 
+
+### Download the pretrained model folder extract and replace from here : https://drive.google.com/file/d/1t_5ff2R8eL6a52EN-Gn5F19v_-SSLTNj/view?usp=sharing
+
 ### Demo:
+https://drive.google.com/file/d/1xpQGyfmniCOPGy56SBpDeWyWGCPdhipN/view?usp=sharing
 
 
 ## Running Inference
@@ -66,6 +73,7 @@ If you want to process your own data, follow these steps:
 
 Feel free to reach out for any issues or improvements. Happy Virtual Dress TryOn!
 
+#Note this project is a GUI version with some changes from the this project https://github.com/fyviezhao/M3D-VTON , please make sure to check that 
 ---
 
 Make sure to replace placeholders like `path/to/MPV3D/dataset` with the actual paths and update any additional details as needed.
